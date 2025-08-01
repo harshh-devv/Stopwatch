@@ -14,6 +14,7 @@ A simple and functional Stopwatch application built using HTML, CSS, and JavaScr
 💡 Beginner-friendly project with organized code
 
 🛠️ Technologies Used
+
 HTML5
 
 CSS3
