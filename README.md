@@ -16,17 +16,12 @@ Play the game here : https://harshh-devv.github.io/Stopwatch/
 
 💡 Beginner-friendly project with organized code
 
-🛠️ Technologies Used
-HTML5
 
-CSS3 (with Flexbox & Media Queries)
-
-Vanilla JavaScript
 
 ## 🛠️ Technologies Used
 - **HTML** – For the structure of the game.
 - **CSS** – For styling and layout.
-- **JavaScript** – For game logic and interactivity.
+- **JavaScript** – For logic and interactivity.
 
 ## 📂 Project Structure
 
