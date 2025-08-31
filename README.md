@@ -1,6 +1,9 @@
 # Stopwatch
 A simple and functional Stopwatch application built using HTML, CSS, and JavaScript. This project allows users to start, stop, and reset the timer with precision and smooth performance — perfect for timing tasks, workouts, or study sessions.
 
+## 🔗 Live Demo
+Play the game here : https://harshh-devv.github.io/Stopwatch/
+
 🚀 Features
 
 ⏳ Start, Stop, and Reset functionality
@@ -38,13 +41,13 @@ Type-Number-Guessing-Game/
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshh-devv/Type-Number-Guessing-Game.git
+   git clone https://github.com/harshh-devv/Stopwatch.git
    
 
 2.  Navigate to the project folder:
    
      ```
-     cd Type-Number-Guessing-Game
+     cd Stopwatch
 
 3. Open index.html in your web browser.
 
