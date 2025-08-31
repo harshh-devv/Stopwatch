@@ -14,9 +14,49 @@ A simple and functional Stopwatch application built using HTML, CSS, and JavaScr
 💡 Beginner-friendly project with organized code
 
 🛠️ Technologies Used
-
 HTML5
 
-CSS3
+CSS3 (with Flexbox & Media Queries)
 
-JavaScript (Vanilla)
+Vanilla JavaScript
+
+## 🛠️ Technologies Used
+- **HTML** – For the structure of the game.
+- **CSS** – For styling and layout.
+- **JavaScript** – For game logic and interactivity.
+
+## 📂 Project Structure
+
+Type-Number-Guessing-Game/
+
+├── index.html # Main HTML file
+
+├── style.css # CSS styling
+
+└── index.js # JavaScript game logic
+
+## 🚀 How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/harshh-devv/Type-Number-Guessing-Game.git
+   
+
+2.  Navigate to the project folder:
+   
+     ```
+     cd Type-Number-Guessing-Game
+
+3. Open index.html in your web browser.
+
+
+
+📄 License
+
+This project is licensed under the MIT License — feel free to use and modify it as you like.
+
+👨‍💻 Developed by Harsh Jogadiya
+
+
+
+
+
