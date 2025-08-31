@@ -25,7 +25,7 @@ Play the game here : https://harshh-devv.github.io/Stopwatch/
 
 ## 📂 Project Structure
 
-Type-Number-Guessing-Game/
+Stopwatch/
 
 ├── index.html # Main HTML file
 
